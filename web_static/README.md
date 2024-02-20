@@ -1,1 +1,2 @@
-This directory implements webpage design.
+Web_static file for the AirBnB_clone _v2
+
